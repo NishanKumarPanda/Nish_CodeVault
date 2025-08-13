@@ -1,4 +1,4 @@
-# 📂 Nish_CodeVault
+# 📂 Nish_CodeVault :
 
 A collection of Python and API Testing projects — from fun beginner games to advanced automation scripts.  
 This repository is organized into two main sections:
@@ -14,6 +14,7 @@ This repository is organized into two main sections:
 | #  | Project Name | Description | Link |
 |----|--------------|-------------|------|
 | 1  | Snake-Water-Gun Game | Fun console-based game with high score tracking. | [View Project](./PythonProjects/01_snake_water_gun) |
+| 2  | Number Guessing Game | Generates a random number and lets the user guess with hints ("Higher" or "Lower"). | [View Project](./PythonProjects/02_number_guessing_game) |
 
 ---
 
@@ -29,3 +30,7 @@ This repository is organized into two main sections:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/Nish_CodeVault.git
+
+
+## 👨‍💻 Created by : 
+Nishan Kumar Panda
